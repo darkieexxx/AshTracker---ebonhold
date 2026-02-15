@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Ash Tracker
+## Notes: Tracks Soul Ash per hour for Project Ebonhold. Click the button to open the tracker menu.
+## Dependencies: ProjectEbonhold
+## SavedVariables: AshTrackerDB
+## Author: AshTracker
+## Version: 1.1.0
+
+AshTracker.lua
